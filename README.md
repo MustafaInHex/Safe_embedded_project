@@ -1,4 +1,4 @@
-# SAFE Embedded System (ATmega32)
+# Bank database Embedded System (ATmega32)
 
 ## Description
 An embedded C project for the ATmega32 microcontroller. This project features modular drivers for keypad input, LCD display, EEPROM storage, and various I/O operations (LEDs, Buttons, Seven-Segment). This system is developed for a safe for a bank database system
