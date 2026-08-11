@@ -1,6 +1,6 @@
 # SAFE Embedded System (ATmega32)
 
-#Description
+## Description
 An embedded C project for the ATmega32 microcontroller. This project features modular drivers for keypad input, LCD display, EEPROM storage, and various I/O operations (LEDs, Buttons, Seven-Segment).
 
 # Components & Tools
